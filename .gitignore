@@ -1,0 +1,5 @@
+# Ambiente virtuale
+include/
+lib/
+scripts/
+pyvenv.cfg
